@@ -9,10 +9,6 @@
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @license      MIT License
-// @homepageURL  https://github.com/[YOUR_USERNAME]/scrapbox-link-preview
-// @supportURL   https://github.com/[YOUR_USERNAME]/scrapbox-link-preview/issues
-// @downloadURL  https://github.com/[YOUR_USERNAME]/scrapbox-link-preview/raw/main/scrapbox-link-preview.user.js
-// @updateURL    https://github.com/[YOUR_USERNAME]/scrapbox-link-preview/raw/main/scrapbox-link-preview.user.js
 // @icon         https://scrapbox.io/favicon.ico
 // ==/UserScript==
 
